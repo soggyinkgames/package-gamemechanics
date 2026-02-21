@@ -6,8 +6,8 @@
   "unity": "6000.2",
   "dependencies": {},
   "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html/",
-  "licensesUrl": "https://example.com/licensing.html/",
+  "changelogUrl": "https://examples.com/changelog.html/",
+  "licensesUrl": "https://examples.com/licensing.html/",
   "author": {
     "name": "SOGGY INK GAMES",
     "email": "soggyinkgames@gmail.com",
